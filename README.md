@@ -440,6 +440,6 @@ If you like this project, please give it a ⭐ on GitHub!
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by [Dilip Kumar]**
 
 **Happy Chatting! 🎉**
