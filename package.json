@@ -1,1 +1,29 @@
-{  "name": "random-chat",  "version": "1.0.0",  "description": "Random video chat application with WebRTC",  "main": "server.js",  "scripts": {    "start": "node server.js",    "dev": "nodemon server.js"  },  "keywords": [    "chat",    "video",    "webrtc",    "socket.io"  ],  "author": "",  "license": "ISC",  "dependencies": {    "express": "^4.18.2",    "socket.io": "^4.6.1"  },  "devDependencies": {    "nodemon": "^3.0.1"  }}
+{
+  "name": "random-chat",
+  "version": "1.0.0",
+  "description": "Random video chat application with WebRTC",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "keywords": [
+    "chat",
+    "video",
+    "webrtc",
+    "socket.io",
+    "omegle"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
