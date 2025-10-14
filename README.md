@@ -1,4 +1,6 @@
 # random-chat
+To access the random chat click on below link 
+https://randomchat-xf2f.onrender.com
 
 # 🎥 Random Chat - Omegle Clone
 
